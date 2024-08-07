@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\utlis\\aiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:utlis\\aiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\services\\serviceimplementation\\questionserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:services\\serviceimplementation\\questionserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\utlis\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:utlis\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\utlis\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:utlis\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\models\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:models\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\models\\queryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:models\\queryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\models\\questionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:models\\questionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\utlis\\documentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:utlis\\documentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE02C00-4DE2-4BE1-8833-8CD5719EBC89}|..\\TestProjectFGenAI\\TestProjectFGenAI.csproj|c:\\users\\i44375\\source\\repos\\testprojectfgenai\\documentprocessortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE02C00-4DE2-4BE1-8833-8CD5719EBC89}|..\\TestProjectFGenAI\\TestProjectFGenAI.csproj|c:\\users\\i44375\\source\\repos\\testprojectfgenai\\utils\\httpmessagehandlerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\utlis\\apiurls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:utlis\\apiurls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\utlis\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:utlis\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\services\\serviceinterface\\questionserviceinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:services\\serviceinterface\\questionserviceinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|c:\\users\\i44375\\source\\repos\\genaiapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BE68B7E-2909-4416-A985-C26160886D40}|GenAIApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HttpMessageHandlerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\TestProjectFGenAI\\Utils\\HttpMessageHandlerExtensions.cs",
+              "RelativeDocumentMoniker": "..\\TestProjectFGenAI\\Utils\\HttpMessageHandlerExtensions.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\TestProjectFGenAI\\Utils\\HttpMessageHandlerExtensions.cs",
+              "RelativeToolTip": "..\\TestProjectFGenAI\\Utils\\HttpMessageHandlerExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:06:06.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DocumentProcessorTest.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\TestProjectFGenAI\\DocumentProcessorTest.cs",
+              "RelativeDocumentMoniker": "..\\TestProjectFGenAI\\DocumentProcessorTest.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\TestProjectFGenAI\\DocumentProcessorTest.cs",
+              "RelativeToolTip": "..\\TestProjectFGenAI\\DocumentProcessorTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:36:26.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AIClient.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Utlis\\AIClient.cs",
+              "RelativeDocumentMoniker": "Utlis\\AIClient.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Utlis\\AIClient.cs",
+              "RelativeToolTip": "Utlis\\AIClient.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAApwLIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T03:59:33.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Utlis\\DocumentProcessor.cs",
+              "RelativeDocumentMoniker": "Utlis\\DocumentProcessor.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Utlis\\DocumentProcessor.cs",
+              "RelativeToolTip": "Utlis\\DocumentProcessor.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:01:07.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Models\\QuestionRequest.cs",
+              "RelativeDocumentMoniker": "Models\\QuestionRequest.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Models\\QuestionRequest.cs",
+              "RelativeToolTip": "Models\\QuestionRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:18:49.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiUrls.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Utlis\\ApiUrls.cs",
+              "RelativeDocumentMoniker": "Utlis\\ApiUrls.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Utlis\\ApiUrls.cs",
+              "RelativeToolTip": "Utlis\\ApiUrls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:12:38.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Utlis\\Constants.cs",
+              "RelativeDocumentMoniker": "Utlis\\Constants.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Utlis\\Constants.cs",
+              "RelativeToolTip": "Utlis\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:12:33.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "Controllers\\DocumentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:14:49.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T07:12:47.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Models\\QueryRequest.cs",
+              "RelativeDocumentMoniker": "Models\\QueryRequest.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Models\\QueryRequest.cs",
+              "RelativeToolTip": "Models\\QueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:25:21.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseMessage.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Models\\ResponseMessage.cs",
+              "RelativeDocumentMoniker": "Models\\ResponseMessage.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Models\\ResponseMessage.cs",
+              "RelativeToolTip": "Models\\ResponseMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:36:59.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuestionServiceInterface.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Services\\ServiceInterface\\QuestionServiceInterface.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceInterface\\QuestionServiceInterface.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Services\\ServiceInterface\\QuestionServiceInterface.cs",
+              "RelativeToolTip": "Services\\ServiceInterface\\QuestionServiceInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:24:10.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Utlis\\Message.cs",
+              "RelativeDocumentMoniker": "Utlis\\Message.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Utlis\\Message.cs",
+              "RelativeToolTip": "Utlis\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:20:53.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Utlis\\DocumentRepository.cs",
+              "RelativeDocumentMoniker": "Utlis\\DocumentRepository.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Utlis\\DocumentRepository.cs",
+              "RelativeToolTip": "Utlis\\DocumentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:10:41.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "Models\\Document.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Models\\Document.cs",
+              "RelativeToolTip": "Models\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:09:13.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionServiceImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Services\\ServiceImplementation\\QuestionServiceImplementation.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceImplementation\\QuestionServiceImplementation.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Services\\ServiceImplementation\\QuestionServiceImplementation.cs",
+              "RelativeToolTip": "Services\\ServiceImplementation\\QuestionServiceImplementation.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwFUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:07:27.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\Users\\i44375\\source\\repos\\GenAIApp\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "Controllers\\QuestionController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAcwEoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T04:01:51.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

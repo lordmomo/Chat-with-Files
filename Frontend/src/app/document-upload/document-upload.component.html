@@ -1,0 +1,25 @@
+
+  <div class="app-document-chat">
+    <div>
+      <h2>Upload Document</h2>
+      <input type="file" (change)="onFileChange($event)" />
+      <button (click)="uploadFile()" [disabled]="isUploading">Upload</button>
+  
+      <div *ngIf="isUploading" class="spinner-container">
+        <p>Uploading...</p>
+        <!-- <mat-progress-spinner diameter="50" mode="indeterminate"></mat-progress-spinner> -->
+      </div>
+  
+      <p>{{ uploadMessage }}</p>
+  
+      <div *ngIf="fileUploadSuccess">
+        <button (click)="onSummarizeFile()" [disabled]="isSummarizing">Summarize</button>
+        
+        <div *ngIf="isSummarizing" class="spinner-container">
+          <p>Summarizing...</p>
+        </div>
+      </div>
+  
+    </div>
+  </div>
+  

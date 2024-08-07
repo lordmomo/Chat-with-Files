@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenAIApp", "GenAIApp.csproj", "{5BE68B7E-2909-4416-A985-C26160886D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectFGenAI", "..\TestProjectFGenAI\TestProjectFGenAI.csproj", "{1DE02C00-4DE2-4BE1-8833-8CD5719EBC89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE68B7E-2909-4416-A985-C26160886D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE68B7E-2909-4416-A985-C26160886D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE68B7E-2909-4416-A985-C26160886D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE68B7E-2909-4416-A985-C26160886D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE02C00-4DE2-4BE1-8833-8CD5719EBC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE02C00-4DE2-4BE1-8833-8CD5719EBC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE02C00-4DE2-4BE1-8833-8CD5719EBC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE02C00-4DE2-4BE1-8833-8CD5719EBC89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7305A2E-DF48-41A4-A4E2-0FD26395D382}
+	EndGlobalSection
+EndGlobal
